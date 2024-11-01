@@ -1,0 +1,23 @@
+.search-title {
+	text-align:center;
+}
+#search-form {
+	margin:30px 0 20px;
+	text-align:center;
+}
+#search-input {
+	width:320px;
+}
+.result-info {
+	text-align:right;
+	font-size:0.8em;
+	color:#B1B1B1;
+	margin-bottom:1.2em;
+}
+.result {
+	margin-top: 1.2em;
+	font-size:0.9em;
+}
+.result-meta {
+	color:#B1B1B1;
+}
